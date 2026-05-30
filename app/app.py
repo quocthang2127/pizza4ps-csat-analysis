@@ -117,7 +117,11 @@ page = st.sidebar.radio(
 )
 st.sidebar.markdown("---")
 st.sidebar.caption(
-    "**Đặng Duy Quốc Thắng**  \n"
+    "**Nhóm thực hiện:**  \n"
+    "Đặng Duy Quốc Thắng  \n"
+    "Ngô Xuân Vinh  \n"
+    "Nguyễn Bá Đức  \n"
+    "  \n"
     "Cao học IDT — Môn KPDL Nâng cao  \n"
     "GVHD: TS. Võ Văn Hải"
 )
