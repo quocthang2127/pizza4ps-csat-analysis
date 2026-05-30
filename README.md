@@ -13,28 +13,6 @@
 Web app: `https:/pizza4ps-csat.streamlit.app` *(điền sau khi deploy)*
 GitHub repo: `https://github.com/quocthang2127/pizza4ps-csat-analysis` 
 
-## Cấu trúc thư mục
-
-```
-Pizza4Ps_DataMining/
-├── data/
-│   ├── generate_synthetic_data.py    # Sinh synthetic dataset
-│   ├── survey_servqual.csv           # Khảo sát SERVQUAL (600 customers)
-│   ├── pos_transactions.csv          # POS transactions
-│   └── results/                      # Output của notebook phân tích
-├── notebooks/
-│   └── analysis_pipeline.py          # Pipeline phân tích đầy đủ
-├── app/
-│   └── app.py                        # Streamlit web app
-├── paper/
-│   └── final_report.md               # Bài báo cuối kỳ
-├── docs/
-│   └── DEPLOY_GUIDE.md               # Hướng dẫn deploy GitHub + Streamlit Cloud
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
 ## Cách chạy local
 
 ```bash
