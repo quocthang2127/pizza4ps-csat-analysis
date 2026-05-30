@@ -10,7 +10,7 @@
 
 ## Demo
 
-Web app: `https:/pizza4ps-csat.streamlit.app` *(điền sau khi deploy)*
+Web app: `https://pizza4ps-csat.streamlit.app` *(điền sau khi deploy)*
 GitHub repo: `https://github.com/quocthang2127/pizza4ps-csat-analysis` 
 
 ## Cách chạy local
