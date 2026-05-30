@@ -1,0 +1,30 @@
+{
+  "n_customers": 600,
+  "n_transactions": 3473,
+  "cronbach_alpha": {
+    "HH": 0.8296,
+    "TC": 0.8544,
+    "DU": 0.8175,
+    "DB": 0.8256,
+    "CT": 0.8185,
+    "CS": 0.6983
+  },
+  "kmo": 0.8183,
+  "bartlett_p": 0.0,
+  "overall_R2": 0.4097,
+  "overall_adj_R2": 0.4047,
+  "overall_coef": {
+    "const": 0.6092,
+    "HH": 0.1592,
+    "TC": 0.2366,
+    "DU": 0.2122,
+    "DB": 0.1296,
+    "CT": 0.1189
+  },
+  "segments_distribution": {
+    "Potential": 250,
+    "AtRisk": 153,
+    "Loyal": 128,
+    "VIP": 69
+  }
+}
