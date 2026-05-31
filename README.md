@@ -10,7 +10,8 @@
 
 ## Demo
 
-Web app: `https://pizza4ps-csat.streamlit.app`
+Web app: `https://huggingface.co/spaces/quocthang2127/pizza4ps-csat`
+
 GitHub repo: `https://github.com/quocthang2127/pizza4ps-csat-analysis` 
 
 ## Cách chạy local
